@@ -19,8 +19,8 @@ export default function Home() {
             </span>
           </h1>
           <p className="text-gray-200 hidden md:block">
-            Hey there! I'm DEVESH SHARMA, a passionate full-stack developer with a keen eye for design and a love for crafting seamless digital experiences.
-            Whether it's bringing ideas to life with code or creating intuitive user interfaces, I thrive on turning concepts into captivating web solutions.
+            Hey there! I am DEVESH SHARMA, a passionate full-stack developer with a keen eye for design and a love for crafting seamless digital experiences.
+            Whether it is bringing ideas to life with code or creating intuitive user interfaces, I thrive on turning concepts into captivating web solutions.
           </p>
           <div className="flex-col md:flex-row hidden md:flex gap-5">
             <Link
@@ -99,5 +99,5 @@ export default function Home() {
         className="absolute top-0 left-0 z-[10]"
       />
     </main>
-  );
+  )
 }
